@@ -1,2 +1,2 @@
-# tngizt
-only STOweMHG application database to update
+# STOweMHG
+only application database to update
